@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Speakparli Banner">
+<img src="banner.png" alt="Speakparli Banner">
 
 # 🦝 Speakparli
 
