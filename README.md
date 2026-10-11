@@ -14,13 +14,19 @@ A modern language learning platform designed to make vocabulary learning smarter
 
 ## 📥 Downloads
 
-The latest application builds are always available in the repository root.
+**Current desktop release: 0.2.0 (Windows x64).**
 
-Current downloads:
+- [Setup installer (.exe)](https://github.com/sovabelo/speakparli/releases/download/v0.2.0/SpeakParli-Desktop_0.2.0_x64-setup.exe) - recommended for most users.
+- [MSI installer](https://github.com/sovabelo/speakparli/releases/download/v0.2.0/SpeakParli-Desktop_0.2.0_x64_en-US.msi) - alternative Windows installer.
+- [Standalone application (.exe)](https://github.com/sovabelo/speakparli/releases/download/v0.2.0/speakparli-desktop.exe) - run without installation.
 
-- 🖥️ **Speakparli Desktop** (`.exe`)
-- ⚙️ **Speakparli Desktop Installer**
-- 📱 **Speakparli Android** (`.apk`) *(coming soon)*
+The standalone application is also available as `speakparli-desktop.exe` in the repository root. It stores words and settings in the Windows user profile, just like the installed application.
+
+Words and saved local decks remain available offline and after signing out. Sign back in to the same account to synchronize your changes.
+
+[Release notes for 0.2.0](https://github.com/sovabelo/speakparli/releases/tag/v0.2.0).
+
+Android is in development; mobile downloads will be added when available.
 
 Previous releases are available in the **Releases** section.
 
